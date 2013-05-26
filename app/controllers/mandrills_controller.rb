@@ -1,0 +1,2 @@
+class MandrillsController < ApplicationController
+end
